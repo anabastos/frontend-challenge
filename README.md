@@ -15,7 +15,7 @@ Conversa vai, conversa vem e o setor de tecnologia achou interessante o reaprove
 A empresa que te contratou ja possui uma API onde será fácil integrar, ela é basicamente composta por quatro entidades: **User**, **Milestone**, **Roadmap**, **Task**.
 
 #### Sobre a entidade User
-**User** basicamente será a entidade responsável pela regra e dados relationado aos usuários do software onde o mesmo terá três níveis de permissionamento, que são:
+**User** basicamente será a entidade responsável pela regra e dados relacionado aos usuários do software onde o mesmo terá três níveis de permissionamento, que são:
 
 - **Creator**: O criador, ele simplesmente cria um **Milestone**, porem ele mesmo não será o executador do seu **Milestone**.
 - **Manager**: O gerenciador, ele se afilia a algum **Milestone** já criado por outro usuário. A partir dai ele pode criar quantos **Roadmap**, com diversas **Task**, achar necessário para a conclusão de um **Milestone**.
