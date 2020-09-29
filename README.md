@@ -4,9 +4,12 @@
 Para a iniciar o desafio faça um `fork` desse repositório para o seu perfil pessoal, mas atente-se a ler todo o **README.md** antes porque o tempo para a solução do desafio começa a correr quando o `fork` é feito.
 
 ## Descrição
-Uma empresa te contratou para desenvolver um projeto de gerenciamento de projeto, onde equipes tem seus objetivos e cada objetivo tem suas tarefas. Todas as aplicações client-side criadas deverão funcionar de forma offline-first onde os membros das equipes possam marca suas tarefas como concluidas sem precisar está conectado a internet e para isso a empresa exerga necessita de ter aplicativo mobile, desktop e web para facilitar a relação membro de equipe e software.
+Uma empresa te contratou para desenvolver um produto que gerencia projetos, onde equipes tem seus objetivos e cada objetivo tem suas tarefas. Todas as aplicações client-side criadas deverão funcionar de forma offline-first onde os membros das equipes possam marca suas tarefas como concluidas sem precisar está conectado a internet e para isso a empresa exerga necessita de ter aplicativo mobile, desktop e web para facilitar a relação membro de equipe e software.
 
 ## Requisitos para os projetos
+
+### Design
+Criar toda a `User Interface` e `User Experience` para o produto
 
 ### Tecnologia
 Conversa vai, conversa vem e o setor de tecnologia achou interessante o reaproveitamento de código que se consegue ter com a biblioteca React.js logo acharam ideal usar React.js para Web, React Native para Mobile e Electron com React.js para Desktop nativo.
