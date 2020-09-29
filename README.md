@@ -25,10 +25,10 @@ A empresa que te contratou ja possui uma API onde será fácil integrar, ela é 
 
 
 #### Sobre a entidade Milestone
-**Milestone**, funciona como um chamado para execução de algo maior onde apenas um **User** com permissão de **Creator** pode criar uma **Milestone**. Para a **Milestone** ser executada deverá ter algum **User** com permissão de **Manager** para afiliar-se a ela e assim criar um planejamento e execução, onde chamamos de **Roadmap**.
+**Milestone**, funciona como um chamado para execução de algo maior onde apenas um **User** com permissão de **Creator** pode criar um **Milestone**. Para a **Milestone** ser executada deverá ter algum **User** com permissão de **Manager** para afiliar-se a ela e assim criar um planejamento e execução, onde chamamos de **Roadmap**.
 
 #### Sobre a entidade Roadmap
-Todo **Roadmap** ele deve está atrelado a uma **Milestone**, necessáriamente, o objetivo dele é organizacional e para isso não importa quaantos **Roadmap** precisem ser criados. Todo **Roadmap** necessáriamente precisa ser composto ao menos por uma **Task** onde apenas o **User** com permissão **Manager** pode criar.
+Todo **Roadmap** deve está atrelado a um **Milestone**, necessáriamente, o objetivo dele é organizacional e para isso não importa quantos **Roadmap** precisem ser criados. Todo **Roadmap** necessáriamente precisa ser composto ao menos por uma **Task** onde apenas o **User** com permissão **Manager** pode criar.
 
 #### Sobre a entidade Task
 Toda **Task** existe para ser executada por algum **Executor**, dado que a mesma foi executada o *status* dela muda para `done`.
