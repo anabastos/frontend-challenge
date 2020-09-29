@@ -43,7 +43,7 @@ Toda **Task** existe para ser executada por algum **Executor**, dado que a mesma
 - [ ] O reproveitamento de código
 - [ ] A organização de pastas
 - [ ] Testes
-- [ ] Facilidade de iniciar a aplicação
+- [ ] Facilidade para iniciar a aplicação
 - [ ] Documentação
 - [ ] Reaproveitamento de componentes entre aplicativos *(Mobile, Desktop, Web)*
 
