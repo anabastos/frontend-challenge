@@ -9,7 +9,7 @@ Uma empresa te contratou para desenvolver um produto que gerencia projetos, onde
 ## Requisitos para os projetos
 
 ### Design
-Criar toda a `User Interface` e `User Experience` para o produto
+Criar toda a `User Interface` e `User Experience` para o produto de forma responsiva utilizando o conceito de design system para o reaproveitamento dos componentes de UI.
 
 ### Tecnologia
 Conversa vai, conversa vem e o setor de tecnologia achou interessante o reaproveitamento de código que se consegue ter com a biblioteca React.js logo acharam ideal usar React.js para Web, React Native para Mobile e Electron com React.js para Desktop nativo.
