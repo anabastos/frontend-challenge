@@ -12,7 +12,7 @@ Uma empresa te contratou para desenvolver um produto que gerencia projetos, onde
 Criar toda a `User Interface` e `User Experience` para o produto de forma responsiva utilizando o conceito de design system para o reaproveitamento dos componentes de UI.
 
 ### Tecnologia
-Conversa vai, conversa vem e o setor de tecnologia achou interessante o reaproveitamento de código que se consegue ter com a biblioteca React.js logo acharam ideal usar React.js para Web, React Native para Mobile e Electron com React.js para Desktop nativo.
+Conversa vai, conversa vem e o setor de tecnologia achou interessante o reaproveitamento de código que se consegue ter com a biblioteca [React.js](https://pt-br.reactjs.org) logo acharam ideal usar [React.js](https://pt-br.reactjs.org/) para Web, [React Native](https://reactnative.dev/) para Mobile e [Electron](https://www.electronjs.org) com [React.js](https://pt-br.reactjs.org) para Desktop nativo.
 
 ### Negócio
 A empresa que te contratou ja possui uma API onde será fácil integrar, ela é basicamente composta por quatro entidades: **User**, **Milestone**, **Roadmap**, **Task**.
@@ -47,13 +47,14 @@ Toda **Task** existe para ser executada por algum **Executor**, dado que a mesma
 - [ ] A organização de pastas
 - [ ] Testes
 - [ ] Facilidade para iniciar a aplicação
-- [ ] Documentação
+- [ ] Documentação de componentes com a utilzação do [Storybook](https://storybook.js.org)
 - [ ] Reaproveitamento de componentes entre aplicativos *(Mobile, Desktop, Web)*
 
 ## O que contará como ponto extra
 
 - [ ] Será legal se tiver algum Dockerfile ou docker-compose
 - [ ] Tudo escrito usando TypeScript
+- [ ] Trabalhar os projetos como monorepo usando [Lerna](https://github.com/lerna/lerna/blob/master/README.md), cada aplicativo *(Mobile, Desktop, Web)* compartilhando o mesmo código.
 
 ## Terminei, como entrego a solução?
 Então, assumimos que tudo foi feito via `fork` desse projeto para o seu perfil pessoal como descrito [aqui](#iniciando-o-desafio). Depois de ter feito toda a solução basta abrir um `pull request` para a master e pronto, desafio entregue.
