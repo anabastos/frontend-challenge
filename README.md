@@ -18,13 +18,12 @@ Conversa vai, conversa vem e o setor de tecnologia achou interessante o reaprove
 A empresa que te contratou ja possui uma API onde será fácil integrar, ela é basicamente composta por quatro entidades: **User**, **Milestone**, **Roadmap**, **Task**.
 
 #### Sobre a entidade User
-**User** basicamente será a entidade responsável pela regra e dados relacionado aos usuários do software onde o mesmo terá três níveis de permissionamento, que são:
+**User** basicamente será a entidade responsável pela regra e dados relacionado aos usuários do software onde o mesmo terá dois níveis de permissionamento, que são:
 
-- **Creator**: O criador, ele simplesmente cria um **Milestone**, porem ele mesmo não será o executador do seu **Milestone**.
-- **Manager**: O gerenciador, ele se afilia a algum **Milestone** já criado por outro usuário. A partir dai ele pode criar quantos **Roadmap**, com diversas **Task**, achar necessário para a conclusão de um **Milestone**.
+- **Manager**: O gerenciador, ele cria um **Milestone**. A partir dai ele pode criar quantos **Roadmap**, com diversas **Task**, achar necessário para a conclusão de um **Milestone**.
 - **Executor**: O executor, ele é o único quem pode executar as **Task** que compoem um **Roadmap**.
 
-> :warning: Esses perfis de permissão são atribuidos a um **User** podendo ter quanto forem necessário, por exemplo, poderiamos ter um **Manager Executor** onde o mesmo iria se afiliar a um **Millestone**, criar um **Roadmap** e executar as **Tasks** criadas para esse **Roadmap**.
+> :warning: Esses perfis de permissão são atribuidos a um **User** podendo ter quanto forem necessário, por exemplo, poderiamos ter um **Manager Executor** onde o mesmo iria criar um **Millestone**, criar um **Roadmap** e executar as **Tasks** criadas para esse **Roadmap**.
 
 
 #### Sobre a entidade Milestone
