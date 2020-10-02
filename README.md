@@ -1,6 +1,6 @@
 # frontend-challenge
 
-## Iniciando o desafio
+## Iniciando o incrível desafio
 Para a iniciar o desafio faça um `fork` desse repositório para o seu perfil pessoal, mas atente-se a ler todo o **README.md** antes porque o tempo para a solução do desafio começa a correr quando o `fork` é feito.
 
 ### :warning: Proposta do desafio
