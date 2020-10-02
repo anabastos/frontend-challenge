@@ -36,7 +36,20 @@ Todo **Roadmap** deve está atrelado a um **Milestone**, necessáriamente, o obj
 Toda **Task** existe para ser executada por algum **Executor**, dado que a mesma foi executada o *status* dela muda para `done`.
 
 ### Sobre a API que deverá ser consumida
-> TODO: Desenvolver a API que será consumida pelo desafio com documentação em Swagger
+
+Endereço: http://challenge.quartacasa.com.br
+
+#### Recursos
+
+- Para consumir todos os dados de uma **Milestone**: `GET - /api/milestones`
+- Para criar **Milestone**: `POST - /api/milestones`
+- Para atualizar um **Milestone**: `PUT - /api/milestones/:id`
+- Para autorizar um usuário: `GET - /api/users/authorize/me`
+- Para criar um usuário: `POST - /api/users`
+
+:triangular_flag_on_post: .
+
+Não se atente aos problemas que podem surgir na semântica com a API, a ideia é gerar um cenário de desconforto justamente para entender sua linha de raciocínio.
 
 ## Pontos que serão avaliados
 
