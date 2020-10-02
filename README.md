@@ -60,23 +60,6 @@ Endereço: http://challenge.quartacasa.com.br
 
 Não se atente aos problemas que podem surgir na semântica com a API, a ideia é gerar um cenário de desconforto justamente para entender sua linha de raciocínio.
 
-## Pontos que serão avaliados
-
-- [ ] O quanto foi coerente com a descrição do problema e os requisitos do projeto
-- [ ] O desaclopamento das lógicas de negócios para melhor manutenção do código
-- [ ] O reproveitamento de código
-- [ ] A organização de pastas
-- [ ] Testes
-- [ ] Facilidade para iniciar a aplicação
-- [ ] Documentação de componentes com a utilzação do [Storybook](https://storybook.js.org)
-- [ ] Reaproveitamento de componentes entre aplicativos *(Mobile, Desktop, Web)*
-
-## O que contará como ponto extra
-
-- [ ] Será legal se tiver algum Dockerfile ou docker-compose
-- [ ] Tudo escrito usando TypeScript
-- [ ] Trabalhar os projetos como monorepo usando [Lerna](https://github.com/lerna/lerna/blob/master/README.md), cada aplicativo *(Mobile, Desktop, Web)* compartilhando o mesmo código.
-
 ## Terminei, como entrego a solução?
 Então, assumimos que tudo foi feito via `fork` desse projeto para o seu perfil pessoal como descrito [aqui](#iniciando-o-desafio). Depois de ter feito toda a solução basta abrir um `pull request` para a master e pronto, desafio entregue.
 
