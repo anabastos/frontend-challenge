@@ -47,7 +47,7 @@ Endereço: http://challenge.quartacasa.com.br
 - Para autorizar um usuário: `GET - /api/users/authorize/me`
 - Para criar um usuário: `POST - /api/users`
 
-:triangular_flag_on_post: .
+:triangular_flag_on_post: Todos os recursos da API necessitam de autenticação no formato [Basic Authentication](https://en.wikipedia.org/wiki/Basic_access_authentication), com excessão do recurso para criar o usuário.
 
 Não se atente aos problemas que podem surgir na semântica com a API, a ideia é gerar um cenário de desconforto justamente para entender sua linha de raciocínio.
 
