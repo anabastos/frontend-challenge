@@ -52,9 +52,34 @@ Endereço: http://challenge.quartacasa.com.br
 
 - Para consumir todos os dados de uma **Milestone**: `GET - /api/milestones`
 - Para criar **Milestone**: `POST - /api/milestones`
+```json
+{
+  "name": "string",
+  "duration": "integer",
+  "roadmaps": [
+    {
+      "name": "string",
+      "duration": "integer",
+      "tasks": [
+        {
+          "name": "string",
+          "description": "string"
+        }
+      ]
+    }
+  ]
+}
+```
 - Para atualizar um **Milestone**: `PUT - /api/milestones/:id`
 - Para autorizar um usuário: `GET - /api/users/authorize/me`
 - Para criar um usuário: `POST - /api/users`
+```json
+{
+  "name": "string",
+  "username": "string",
+  "password": "string"
+}
+```
 
 :triangular_flag_on_post: Todos os recursos da API necessitam de autenticação no formato [Basic Authentication](https://en.wikipedia.org/wiki/Basic_access_authentication), com excessão do recurso para criar o usuário.
 
