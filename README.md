@@ -8,7 +8,7 @@ Então, a descrição do teste gerou alguns ruídos de comunicação nas issues 
 
 A intenção deste desafio não é esperando que você seja um desenvolvedor especialista e que consiga desempenhar um resultado extremo em apenas 1 hora de trabalho, esse desafio aborda diversos cenários do segmento de front-end e para isso procuramos lança um desafio onde fizesse com que cada candidato pudesse se sentir vontade a atacar a área que fizesse mais sentido para ele como: UI/UX, Layout, React.js com Electron e etc. Por fim não espero o desafio entregue de forma completa mas sim com argumentos sobre solução dada ao escopo que foi entregue.
 
-Sobre o prazo ser contato a partir do `fork` foi o meio que achamos de deixa todos os candidatos a vontade para começár quando bem entender, não queremos precionar o processo de desenvolvimento, isso pode levar nós, enquanto empresa, perde pessoas boas como você.
+Sobre o prazo ser contato a partir do `fork` foi o meio que achamos de deixa todos os candidatos a vontade para começár quando bem entender, não queremos pressionar o processo de desenvolvimento, isso pode levar nós, enquanto empresa, perde pessoas boas como você.
 
 Fique a vontade, e espero alem de se sentir desafio se divirta também.
 
